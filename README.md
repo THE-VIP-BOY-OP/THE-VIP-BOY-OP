@@ -9,4 +9,4 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
 </p>
 
-https://visitor-badge.laobi.icu/badge?page_id=THE-VIP-BOY-OP
+
